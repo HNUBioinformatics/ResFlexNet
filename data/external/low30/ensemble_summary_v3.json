@@ -1,0 +1,33 @@
+{
+  "n_models": 3,
+  "checkpoints": [
+    "/root/sw/checkpoints_v3/best_model_v6_loose_seed42.pt",
+    "/root/sw/checkpoints_v3/best_model_v6_loose_seed43.pt",
+    "/root/sw/checkpoints_v3/best_model_v6_loose_seed44.pt"
+  ],
+  "n_proteins": 779,
+  "mse_mean": 72.10234136826081,
+  "mae_mean": 5.110642526462706,
+  "rmse_mean": 7.0881776473712454,
+  "pcc_mean": 0.7936880740011986,
+  "scc_mean": 0.7858573623300015,
+  "mse_norm_mean": 0.3673000627058535,
+  "mae_norm_mean": 0.42694303754346213,
+  "rmse_norm_mean": 0.5944249616101854,
+  "pcc_norm_mean": 0.7936880743668395,
+  "scc_norm_mean": 0.7858573482929964,
+  "pcc_std": 0.10208305291729303,
+  "pcc_median": 0.8151796808419842,
+  "scc_std": 0.10928546986859274,
+  "scc_median": 0.8093345129977351,
+  "epochs": [
+    9,
+    7,
+    8
+  ],
+  "best_val_pccs": [
+    0.7802383686490182,
+    0.7791891383225789,
+    0.7784766351463089
+  ]
+}

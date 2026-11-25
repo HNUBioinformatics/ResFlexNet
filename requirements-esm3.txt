@@ -1,0 +1,3 @@
+# Optional. Install in a separate environment if PyTorch versions conflict.
+# Official checkpoint: https://huggingface.co/EvolutionaryScale/esm3-sm-open-v1
+esm
